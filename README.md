@@ -1,6 +1,6 @@
 # Computational Commutative Algebra and Geometry
 
-![](/sudoku.svg)
+![](/sudoku.png)
 
 Introduction
 ------------
